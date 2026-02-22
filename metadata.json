@@ -1,0 +1,8 @@
+{
+  "name": "ABM Solver",
+  "description": "Professional math solver and socratic oral tutor branded as ABM Solver by Professor Satyam.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
